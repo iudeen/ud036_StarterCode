@@ -9,7 +9,7 @@ main_page_head = '''
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>Fresh Tomatoes!</title>
+    <title>Irfanuddin NanoDegree Project 1 - Movie Trailer Website </title>
 
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
@@ -40,7 +40,7 @@ main_page_head = '''
             padding-top: 20px;
         }
         .movie-tile:hover {
-            background-color: #EEE;
+            background-color: #EE3;
             cursor: pointer;
         }
         .scale-media {
@@ -54,7 +54,7 @@ main_page_head = '''
             width: 100%;
             left: 0;
             top: 0;
-            background-color: white;
+            background-color: blue;
         }
     </style>
     <script type="text/javascript" charset="utf-8">
@@ -107,7 +107,7 @@ main_page_content = '''
       <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
         <div class="container">
           <div class="navbar-header">
-            <a class="navbar-brand" href="#">Fresh Tomatoes Movie Trailers</a>
+            <a class="navbar-brand" href="#">Irfanuddin Movie Trailers</a>
           </div>
         </div>
       </div>
